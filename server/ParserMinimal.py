@@ -3,13 +3,13 @@ import sys
 """
 /---Y E T   A N O T H E R   K E Y L O G G E R---\
 |                                               |
-|B Y :                  3 S I D E D S Q U A R E |
+|B Y :     A L E X A N D E R   P I C K E R I N G|
 |                                               |
-|V I S I T                S I N I S T E R . L Y |
+|V I S I T                     C O G A R . O R G|
 |                                               |
 |C O N T A C T                                  |
 |                                               |
-|I R C . R I Z O N . N E T # S i n i s t e r l y|
+|I R C . R I Z O N . N E T          # c y b e r |
 |                                               |
 |S K Y P E                        b b b l i t z |
 \-----------------------------------------------/
